@@ -1,0 +1,129 @@
+spells:
+  thunder:
+    key: thunder
+    type: THUNDER
+    percent: 80
+    damage: 5
+    range: 30
+  fireball:
+    key: fireball
+    type: FIREBALL
+    percent: 70
+    damage: 5
+    range: 20
+  rush:
+    key: rush
+    type: RUSH
+    percent: 70
+    damage: 10
+    repulsion: 2
+    range: 20
+skills:
+  protection:
+    key: protection
+    damageReduction: 10
+  slow:
+    key: slow
+    slowAmount: 10
+  wise:
+    key: wise
+    skillIncrement: 20
+  unstable:
+    key: unstable
+    percentDamage: 5
+    damageIncrement: 10
+  explosion:
+    key: explosion
+    percent: 10
+    damageMin: 10
+    damageMax: 20
+    surviveExplosion:
+      - "xp give <player> 1000"
+  young:
+    key: young
+    speedIncrement: 20
+  strong:
+    key: strong
+    damageIncrement: 20
+dragons:
+  protector:
+    dragonType: PROTECTOR
+    name: "&cProtector"
+    health: 9000000
+    chance: 16
+    skills:
+      - "protection"
+    spells:
+      - "thunder"
+      - "fireball"
+      - "rush"
+  old:
+    dragonType: OLD
+    name: "&8Old"
+    health: 15000000
+    chance: 16
+    skills:
+      - "slow"
+    spells:
+      - "thunder"
+      - "fireball"
+      - "rush"
+  wise:
+    dragonType: WISE
+    name: "&bWise"
+    health: 9000000
+    chance: 16
+    skills:
+      - "wise"
+    spells:
+      - "thunder"
+      - "fireball"
+      - "rush"
+  unstable:
+    dragonType: UNSTABLE
+    name: "&5Unstable"
+    health: 9000000
+    chance: 16
+    skills:
+      - "unstable"
+      - "explosion"
+    spells:
+      - "thunder"
+      - "fireball"
+      - "rush"
+  young:
+    dragonType: YOUNG
+    name: "&aYoung"
+    health: 7500000
+    chance: 16
+    skills:
+      - "young"
+    spells:
+      - "thunder"
+      - "fireball"
+      - "rush"
+  strong:
+    dragonType: STRONG
+    name: "&1Strong"
+    health: 9000000
+    chance: 16
+    skills:
+      - "string"
+    spells:
+      - "thunder"
+      - "fireball"
+      - "rush"
+  superior:
+    dragonType: SUPERIOR
+    name: "&6Superior"
+    health: 12000000
+    chance: 4
+    skills:
+      - "protection"
+      - "wise"
+      - "unstable"
+      - "explosion"
+    spells:
+      - "thunder"
+      - "fireball"
+      - "rush"
