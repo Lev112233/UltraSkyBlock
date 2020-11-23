@@ -1,0 +1,149 @@
+coinsCMD: "eco give <player> <amount>"
+addons:
+  PlaceholderAPI: false
+  MVdWPlaceholderAPI: false
+  RedProtect: false
+  PreciousStones: false
+  ProtectionStones: false
+  WorldGuard: false
+  GriefPrevention: false
+  UltraMinions: false
+  SuperiorSkyblock2: false
+  FabledSkyBlock: false
+  AcidIsland: false
+  ASkyBlock: false
+  BentoBox: false
+  IridiumSkyblock: false
+  WorldEdit: false
+  MMOItems: false
+collectionsCache:
+  maxAmount: 20000
+  time: 5
+  timeUnit: MINUTES
+dragons:
+  spawn: null
+  schematicEgg: dragonegg.schematic
+  soundSize: 50
+  sizeX: 5
+  sizeY: 10
+  sizeZ: 5
+percentOfShield: 5
+actionBar:
+  global: true
+  perWorld: false
+  worlds:
+    - world
+slots:
+  skills:
+    mainBlack: all
+    levelsBlack: all
+  trades:
+    tradesBlack: 0;1;2;3;4;5;6;7;8;9;17;18;26;27;35;36;44;45;46;47;48;50;51;52;53
+    tradingBlack: all
+  collections:
+    mainBlack: all
+    typeBlack: 0;1;2;3;4;5;6;7;8;9;17;18;26;27;35;36;44;45;46;47;50;51;52;53
+    levelsBlack: all
+crafting:
+  lockIfNoPerm: true
+collections:
+  useNBT: false
+  barAmount: 15
+  black:
+    material: STAINED_GLASS_PANE
+    data: 15
+  mainBlocked:
+    material: INK_SACK
+    data: 8
+  unblocked:
+    material: STAINED_GLASS_PANE
+    data: 5
+  now:
+    material: STAINED_GLASS_PANE
+    data: 4
+  blocked:
+    material: STAINED_GLASS_PANE
+    data: 14
+tradeBlocked:
+  material: INK_SACK
+  data: 8
+skills:
+  farmer:
+    global: true
+    perWorld: false
+    perRegion: false
+    disabledRegions:
+      - prueba
+    worlds:
+      - world
+    regions:
+      - test1
+  miner:
+    global: true
+    perWorld: false
+    perRegion: false
+    disabledRegions:
+      - prueba
+    worlds:
+      - world
+    regions:
+      - test1
+  combat:
+    global: true
+    perWorld: false
+    perRegion: false
+    disabledRegions:
+      - prueba
+    worlds:
+      - world
+    regions:
+      - test1
+  foraging:
+    global: true
+    perWorld: false
+    perRegion: false
+    disabledRegions:
+      - prueba
+    worlds:
+      - world
+    regions:
+      - test1
+  fishing:
+    global: true
+    perWorld: false
+    perRegion: false
+    disabledRegions:
+      - prueba
+    worlds:
+      - world
+    regions:
+      - test1
+  enchanting:
+    global: true
+    perWorld: false
+    perRegion: false
+    disabledRegions:
+      - prueba
+    worlds:
+      - world
+    regions:
+      - test1
+  alchemy:
+    global: true
+    perWorld: false
+    perRegion: false
+    disabledRegions:
+      - prueba
+    worlds:
+      - world
+    regions:
+      - test1
+  unblocked:
+    material: STAINED_GLASS_PANE
+    data: 5
+  now:
+    material: STAINED_GLASS_PANE
+    data: 4
+  blocked:
+    material: STAINED_GLASS_PANE
+    data: 14

@@ -1,0 +1,5787 @@
+collections:
+  wheat:
+    key: wheat
+    name: Wheat
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: WHEAT
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  carrot:
+    key: carrot
+    name: Carrot
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: CARROT_ITEM
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  potato:
+    key: potato
+    name: Potato
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: POTATO_ITEM
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  pumpkin:
+    key: pumpkin
+    name: Pumpkin
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: PUMPKIN
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  melon:
+    key: melon
+    name: Melon
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: MELON
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  seeds:
+    key: seeds
+    name: Seeds
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: SEEDS
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  champion:
+    key: champion
+    name: Champion
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: RED_MUSHROOM
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  cocoaBeans:
+    key: cocoaBeans
+    name: CocoaBeans
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: COCOA
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  cactus:
+    key: cactus
+    name: Cactus
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: CACTUS
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  sugarcane:
+    key: sugarcane
+    name: Sugarcane
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: SUGAR_CANE
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  feather:
+    key: feather
+    name: Feather
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: FEATHER
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  leather:
+    key: leather
+    name: Leather
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: LEATHER
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  pork:
+    key: pork
+    name: Pork
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: PORK
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  chicken:
+    key: chicken
+    name: Chicken
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: RAW_CHICKEN
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  mutton:
+    key: mutton
+    name: Mutton
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: MUTTON
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  rabbit:
+    key: rabbit
+    name: Rabbit
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: RABBIT
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  netherWart:
+    key: netherWart
+    name: NetherWart
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: NETHER_STALK
+    type: FARMING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  rock:
+    key: rock
+    name: Rock
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  coal:
+    key: coal
+    name: Coal
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: COAL
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  iron_ingot:
+    key: iron_ingot
+    name: Iron_ingot
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_INGOT
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  gold_ingot:
+    key: gold_ingot
+    name: Gold_ingot
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_INGOT
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  diamond:
+    key: diamond
+    name: Diamond
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  lapislazuli:
+    key: lapislazuli
+    name: Lapislazuli
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  emerald:
+    key: emerald
+    name: Emerald
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: EMERALD
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  redstone:
+    key: redstone
+    name: Redstone
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  quartz:
+    key: quartz
+    name: Quartz
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: QUARTZ
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  obsidian:
+    key: obsidian
+    name: Obsidian
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: OBSIDIAN
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  glowstone:
+    key: glowstone
+    name: Glowstone
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  gravel:
+    key: gravel
+    name: Gravel
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GRAVEL
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  ice:
+    key: ice
+    name: Ice
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: PACKED_ICE
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  netherrack:
+    key: netherrack
+    name: Netherrack
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: NETHERRACK
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  sand:
+    key: sand
+    name: Sand
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: SAND
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  endstone:
+    key: endstone
+    name: Endstone
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: ENDER_STONE
+    type: MINING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  rottemflesh:
+    key: rottemflesh
+    name: Rottemflesh
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: ROTTEN_FLESH
+    type: COMBAT
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  bone:
+    key: bone
+    name: Bone
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: BONE
+    type: COMBAT
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  string:
+    key: string
+    name: String
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: STRING
+    type: COMBAT
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  spidereye:
+    key: spidereye
+    name: Spidereye
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: SPIDER_EYE
+    type: COMBAT
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  polvore:
+    key: polvore
+    name: Polvore
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: SULPHUR
+    type: COMBAT
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  ender:
+    key: ender
+    name: Ender
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: ENDER_PEARL
+    type: COMBAT
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  ghasttear:
+    key: ghasttear
+    name: Ghasttear
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GHAST_TEAR
+    type: COMBAT
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  slimeball:
+    key: slimeball
+    name: Slimeball
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: SLIME_BALL
+    type: COMBAT
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  blazerod:
+    key: blazerod
+    name: Blazerod
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: BLAZE_ROD
+    type: COMBAT
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  magmaball:
+    key: magmaball
+    name: Magmaball
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: MAGMA_CREAM
+    type: COMBAT
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  log0:
+    key: log0
+    name: Log0
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+    type: FORAGING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  log1:
+    key: log1
+    name: Log1
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+    type: FORAGING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  log2:
+    key: log2
+    name: Log2
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 2
+    type: FORAGING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  log3:
+    key: log3
+    name: Log3
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 3
+    type: FORAGING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  log2_0:
+    key: log2_0
+    name: Log2_0
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG_2
+    type: FORAGING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  log2_1:
+    key: log2_1
+    name: Log2_1
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG_2
+      damage: 1
+    type: FORAGING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  fish1:
+    key: fish1
+    name: Fish1
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: RAW_FISH
+    type: FISHING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  fish2:
+    key: fish2
+    name: Fish2
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: RAW_FISH
+    type: FISHING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  fish3:
+    key: fish3
+    name: Fish3
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: RAW_FISH
+    type: FISHING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  fish4:
+    key: fish4
+    name: Fish4
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: RAW_FISH
+    type: FISHING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  prismarine:
+    key: prismarine
+    name: Prismarine
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: PRISMARINE
+    type: FISHING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  crystal:
+    key: crystal
+    name: Crystal
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: PRISMARINE_CRYSTALS
+    type: FISHING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  clay:
+    key: clay
+    name: Clay
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: CLAY
+    type: FISHING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  menufar:
+    key: menufar
+    name: Menufar
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: WATER_LILY
+    type: FISHING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  inksack:
+    key: inksack
+    name: Inksack
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+    type: FISHING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+  sponge:
+    key: sponge
+    name: Sponge
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: SPONGE
+    type: FISHING
+    levels:
+      '1':
+        level: 1
+        slot: 18
+        amount: 50
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '2':
+        level: 2
+        slot: 19
+        amount: 100
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '3':
+        level: 3
+        slot: 20
+        amount: 250
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '4':
+        level: 4
+        slot: 21
+        amount: 500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '5':
+        level: 5
+        slot: 22
+        amount: 1000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '6':
+        level: 6
+        slot: 23
+        amount: 2500
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '7':
+        level: 7
+        slot: 24
+        amount: 10000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '8':
+        level: 8
+        slot: 25
+        amount: 15000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '9':
+        level: 9
+        slot: 26
+        amount: 25000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'
+      '10':
+        level: 10
+        slot: 27
+        amount: 50000
+        page: 1
+        commands:
+          - say Default command
+        rewards:
+          - '&7     &9This is &7lore of reward.'

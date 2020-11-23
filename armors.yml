@@ -1,0 +1,107 @@
+enchants:
+  PROTECTION_ENVIRONMENTAL:
+    defense: 5
+    force: 0
+    health: 0
+    speed: 0
+  PROTECTION_EXPLOSIONS:
+    defense: 5
+    force: 0
+    health: 0
+    speed: 0
+  PROTECTION_FALL:
+    defense: 5
+    force: 0
+    health: 0
+    speed: 0
+  PROTECTION_FIRE:
+    defense: 5
+    force: 0
+    health: 0
+    speed: 0
+  PROTECTION_PROJECTILE:
+    defense: 5
+    force: 0
+    health: 0
+    speed: 0
+vanilla:
+  LEATHER_HELMET:
+    defense: 3
+    force: 0
+    health: 0
+    speed: 0
+  LEATHER_CHESTPLATE:
+    defense: 12
+    force: 0
+    health: 0
+    speed: 0
+  LEATHER_LEGGINGS:
+    defense: 12
+    force: 0
+    health: 0
+    speed: 0
+  LEATHER_BOOTS:
+    defense: 3
+    force: 0
+    health: 0
+    speed: 0
+  CHAINMAIL_HELMET:
+    defense: 5
+    force: 0
+    health: 0
+    speed: 0
+  CHAINMAIL_CHESTPLATE:
+    defense: 10
+    force: 0
+    health: 0
+    speed: 0
+  CHAINMAIL_LEGGINGS:
+    defense: 10
+    force: 0
+    health: 0
+    speed: 0
+  CHAINMAIL_BOOTS:
+    defense: 5
+    force: 0
+    health: 0
+    speed: 0
+  IRON_HELMET:
+    defense: 5
+    force: 0
+    health: 0
+    speed: 0
+  IRON_CHESTPLATE:
+    defense: 20
+    force: 0
+    health: 0
+    speed: 0
+  IRON_LEGGINGS:
+    defense: 20
+    force: 0
+    health: 0
+    speed: 0
+  IRON_BOOTS:
+    defense: 5
+    force: 0
+    health: 0
+    speed: 0
+  DIAMOND_HELMET:
+    defense: 10
+    force: 0
+    health: 0
+    speed: 0
+  DIAMOND_CHESTPLATE:
+    defense: 40
+    force: 0
+    health: 0
+    speed: 0
+  DIAMOND_LEGGINGS:
+    defense: 40
+    force: 0
+    health: 0
+    speed: 0
+  DIAMOND_BOOTS:
+    defense: 10
+    force: 0
+    health: 0
+    speed: 0
