@@ -1,0 +1,147 @@
+pets:
+  bee:
+    id: bee
+    name: "Bee"
+    rarity: COMMON
+    petType: HEAD
+    value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdkYjlhNjA0N2QyOTlhNjk0NWZhMzYwMjk5ZTEyYTEzNzM2ZDU2ZjFmZGZjMTkyZWMyMGYyOWNmNDY4MThjIn19fQ=="
+    workType: FARMER
+    price:
+      money: 5000
+      items:
+        item1:
+          material: COAL_BLOCK
+          amount: 2
+          data: 0
+        item2:
+          material: GOLD_BLOCK
+          amount: 2
+          data: 0
+    extra:
+      - "&7Has &a50% &7chance for flowers"
+      - "&7to drop an extra one"
+    group:
+      lore:
+        - "&6Busy Buzz Buzz"
+        - "&7Gain &b+3<intelligence> Intelligence &7and"
+        - "&c+2<force> Strength &7for each nearby"
+        - "&7bee."
+      amount: 15
+      bonus:
+        - "INTELLIGENCE:3"
+        - "STRENGTH:2"
+    levels:
+      level1:
+        level: 1
+        levelUp: 50
+        attributes:
+          - "INTELLIGENCE:0"
+          - "STRENGTH:5"
+          - "SPEED:0"
+        rewards:
+          - "COMMAND:eco give <player> 25"
+      level2:
+        level: 2
+        levelUp: 100
+        attributes:
+          - "INTELLIGENCE:1"
+          - "STRENGTH:5"
+          - "SPEED:0"
+        rewards:
+          - "COMMAND:eco give <player> 100"
+      level3:
+        level: 3
+        levelUp: 200
+        attributes:
+          - "INTELLIGENCE:2"
+          - "STRENGTH:5"
+          - "SPEED:1"
+        rewards:
+          - "COMMAND:eco give <player> 200"
+      level4:
+        level: 4
+        levelUp: 500
+        attributes:
+          - "INTELLIGENCE:3"
+          - "STRENGTH:5"
+          - "SPEED:1"
+        rewards:
+          - "COMMAND:eco give <player> 500"
+      level5:
+        level: 5
+        levelUp: 750
+        attributes:
+          - "INTELLIGENCE:3"
+          - "STRENGTH:5"
+          - "SPEED:2"
+        rewards:
+          - "COMMAND:eco give <player> 750"
+  horse:
+    id: horse
+    name: "Horse"
+    rarity: COMMON
+    petType: MOB
+    value: HORSE
+    workType: COMBAT
+    price:
+      money: 5000
+      items:
+        item1:
+          material: COAL_BLOCK
+          amount: 2
+          data: 0
+        item2:
+          material: GOLD_BLOCK
+          amount: 2
+          data: 0
+    group:
+      amount: 15
+      bonus:
+        - "INTELLIGENCE:3"
+        - "STRENGTH:2"
+    levels:
+      level1:
+        level: 1
+        levelUp: 50
+        attributes:
+          - "INTELLIGENCE:0"
+          - "STRENGTH:5"
+          - "SPEED:0"
+        rewards:
+          - "COMMAND:eco give <player> 25"
+      level2:
+        level: 2
+        levelUp: 100
+        attributes:
+          - "INTELLIGENCE:1"
+          - "STRENGTH:5"
+          - "SPEED:0"
+        rewards:
+          - "COMMAND:eco give <player> 100"
+      level3:
+        level: 3
+        levelUp: 200
+        attributes:
+          - "INTELLIGENCE:2"
+          - "STRENGTH:5"
+          - "SPEED:1"
+        rewards:
+          - "COMMAND:eco give <player> 200"
+      level4:
+        level: 4
+        levelUp: 500
+        attributes:
+          - "INTELLIGENCE:3"
+          - "STRENGTH:5"
+          - "SPEED:1"
+        rewards:
+          - "COMMAND:eco give <player> 500"
+      level5:
+        level: 5
+        levelUp: 750
+        attributes:
+          - "INTELLIGENCE:3"
+          - "STRENGTH:5"
+          - "SPEED:2"
+        rewards:
+          - "COMMAND:eco give <player> 750"

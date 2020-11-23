@@ -1,0 +1,89 @@
+foraging:
+  blocks:
+    log:
+      material: LOG
+      xp: 2.0
+    log_2:
+      material: LOG_2
+      xp: 3.0
+enchanting:
+  items:
+    diamond_sword:
+      item: DIAMOND_SWORD
+      xp: 4.0
+combat:
+  entities:
+    zombies:
+      entity: ZOMBIE
+      xp: 2.0
+    creeper:
+      entity: CREEPER
+      xp: 2.0
+farmer:
+  blocks:
+    crops:
+      material: CROPS
+      xp: 2.0
+    wheat:
+      material: WHEAT
+      xp: 2.0
+    sugar_cane:
+      material: SUGAR_CANE
+      xp: 2.0
+    nether_warts:
+      material: NETHER_WARTS
+      xp: 2.0
+    carrot:
+      material: CARROT
+      xp: 2.0
+    melon:
+      material: MELON
+      xp: 2.0
+    potato:
+      material: POTATO
+      xp: 2.0
+miner:
+  blocks:
+    OBSIDIAN:
+      material: OBSIDIAN
+      xp: 15
+    NETHERRACK:
+      material: NETHERRACK
+      xp: 0.6
+    ENDER_STONE:
+      material: ENDER_STONE
+      xp: 5.0
+    GOLD_ORE:
+      material: GOLD_ORE
+      xp: 3.0
+    IRON_ORE:
+      material: IRON_ORE
+      xp: 2.0
+    DIAMOND_ORE:
+      material: DIAMOND_ORE
+      xp: 4.0
+    EMERALD_ORE:
+      material: EMERALD_ORE
+      xp: 5.0
+    COAL_ORE:
+      material: COAL_ORE
+      xp: 1.0
+    QUARTZ_ORE:
+      material: QUARTZ_ORE
+      xp: 2.0
+    LAPIS_ORE:
+      material: LAPIS_ORE
+      xp: 2.0
+    GLOWING_REDSTONE_ORE:
+      material: GLOWING_REDSTONE_ORE
+      xp: 3.0
+fishing:
+  entities:
+    fish:
+      entity: DROPPED_ITEM
+      xp: 3.0
+alchemy:
+  items:
+    force:
+      item: BLAZE_POWDER
+      xp: 3.0

@@ -1,0 +1,27 @@
+main: io.github.Leonardo0013YT.UltraSkills.Main
+author: Leonardo0013YT
+name: UltraSkyBlock-Core
+version: 3.0.0
+softdepend:
+  - PlaceholderAPI
+  - MVdWPlaceholderAPI
+  - ProtectionStones
+  - PreciousStones
+  - GriefPrevention
+  - RedProtect
+  - WorldGuard
+  - UltraMinions
+  - WorldEdit
+  - SuperiorSkyblock2
+  - FabledSkyBlock
+  - AcidIsland
+  - ASkyBlock
+  - BentoBox
+  - IridiumSkyblock
+  - MMOItems
+commands:
+  skills:
+  trades:
+  collections:
+  ssetup:
+  usbc:

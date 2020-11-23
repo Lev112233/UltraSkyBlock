@@ -1,0 +1,47 @@
+allSouls:
+  msg: "&aYou found all souls!"
+  rewards:
+    - "say <player> Found all souls!"
+rewards:
+  command1:
+    attribute: COMMAND
+    probability: 40
+    amount: 1
+    cmds:
+      - "say I am <player> OP!"
+    msg: "&aCustom Messages!"
+  health:
+    attribute: HEALTH
+    probability: 40
+    amount: 2
+    msg: "&a2 HP &c<heart> Health"
+  defense:
+    attribute: DEFENSE
+    probability: 10
+    amount: 1
+    msg: "&a1 <shield> Defense"
+  intelligence:
+    attribute: INTELLIGENCE
+    probability: 10
+    amount: 1
+    msg: "&b1 <intelligence> Intelligence"
+  strength:
+    attribute: STRENGTH
+    probability: 10
+    amount: 1
+    msg: "&c1 <force> Strength"
+  speed:
+    attribute: SPEED
+    probability: 10
+    amount: 1
+    msg: "&f1 Speed"
+  critchance:
+    attribute: CRITCHANCE
+    probability: 10
+    amount: 1
+    msg: "&61 <crit> &9Crit Chance"
+  critdamage:
+    attribute: CRITDAMAGE
+    probability: 10
+    amount: 1
+    msg: "&61 <crit> &9Crit Damage"

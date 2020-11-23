@@ -1,0 +1,396 @@
+fusions:
+  - DIAMOND_SWORD
+  - STONE_SWORD
+  - WOOD_SWORD
+  - GOLD_SWORD
+  - IRON_SWORD
+  - DIAMOND_AXE
+  - STONE_AXE
+  - WOOD_AXE
+  - GOLD_AXE
+  - IRON_AXE
+  - DIAMOND_PICKAXE
+  - STONE_PICKAXE
+  - WOOD_PICKAXE
+  - GOLD_PICKAXE
+  - IRON_PICKAXE
+  - BOW
+runeitems:
+  ice:
+    probability: 10
+    particle: CLOUD
+    name: '&f♦ Ice Rune <level>'
+    value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2RjNTdjNzVhZGYzOWVjNmYwZTA5MTYwNDlkZDk2NzFlOThhOGExZTYwMDEwNGU4NGU2NDVjOTg4OTUwYmQ3In19fQ==
+    addLore: |-
+      <name>:
+      &7Create a frozen effect when you
+      &7kill mobs!
+    lore: |-
+      &8Requires level <level>
+      &8Weapons
+      &7
+      &7Create a frozen effect when you
+      &7kill mobs!
+      &7
+      &7Apply this rune to weapons or
+      &7fuse two together at the Runic
+      &7Pedestal
+      &7
+      &f&lCOMMON
+    levels:
+      level1:
+        level: 1
+        dropChance: 10
+        requiredLevel: 2
+      level2:
+        level: 2
+        dropChance: 5
+        requiredLevel: 3
+      level3:
+        level: 3
+        dropChance: 3
+        requiredLevel: 4
+      level4:
+        level: 4
+        dropChance: 1
+        requiredLevel: 5
+  hearts:
+    probability: 5
+    particle: HEART
+    name: '&d♦ Hearts Rune <level>'
+    value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmMxYzE3OWFkNTE5NTVmMTUyMmM0OGVhOTkzMWYwOWMxNjI3NDFiNDVlMjJlOWQzZmViNjgyYzdlNWVkODI3NCJ9fX0=
+    addLore: |-
+      <name>:
+      &7Create a frozen effect when you
+      &7kill mobs!
+    lore: |-
+      &8Requires level <level>
+      &8Weapons
+      &7
+      &7Shower you enemies in love!
+      &7
+      &7Apply this rune to weapons or
+      &7fuse two together at the Runic
+      &7Pedestal
+      &7
+      &9&lRARE
+    levels:
+      level1:
+        level: 1
+        dropChance: 2
+        requiredLevel: 3
+      level2:
+        level: 2
+        dropChance: 1
+        requiredLevel: 4
+      level3:
+        level: 3
+        dropChance: 0.5
+        requiredLevel: 5
+      level4:
+        level: 4
+        dropChance: 0.25
+        requiredLevel: 6
+  music:
+    probability: 2
+    particle: NOTE
+    name: '&b♦ Music Rune <level>'
+    value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2I0ODFjMzFkYzY4M2JkY2I3ZDM3NWE3YzVkYjdhYzdhZGY5ZTlmZThiNmMwNGE2NDkzMTYxM2UyOWZlNDcwZSJ9fX0=
+    addLore: |-
+      <name>:
+      &7Create a frozen effect when you
+      &7kill mobs!
+    lore: |-
+      &8Requires level <level>
+      &8Weapons
+      &7
+      &7Put monsters out of there misery
+      &7with sweet tunes!
+      &7
+      &7Apply this rune to weapons or
+      &7fuse two together at the Runic
+      &7Pedestal
+      &7
+      &5&lEPIC
+    levels:
+      level1:
+        level: 1
+        dropChance: 2
+        requiredLevel: 3
+      level2:
+        level: 2
+        dropChance: 1
+        requiredLevel: 4
+      level3:
+        level: 3
+        dropChance: 0.5
+        requiredLevel: 5
+      level4:
+        level: 4
+        dropChance: 0.25
+        requiredLevel: 6
+  smokey:
+    probability: 10
+    particle: SMOKE_NORMAL
+    name: '&7♦ Smokey Rune <level>'
+    value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTRkOGE4ZDUyN2Y2NWE0ZjQzNGY4OTRmN2VlNDJlYjg0MzAxNWJkYTc5MjdjNjNjNmVhOGE3NTRhZmU5YmIxYiJ9fX0=
+    addLore: |-
+      <name>:
+      &7Create a frozen effect when you
+      &7kill mobs!
+    lore: |-
+      &8Requires level <level>
+      &8Bows
+      &7
+      &7Create a burnt trail behind
+      &7your arrows!
+      &7
+      &7Apply this rune to weapons or
+      &7fuse two together at the Runic
+      &7Pedestal
+      &7
+      &f&lCOMMON
+    levels:
+      level1:
+        level: 1
+        dropChance: 10
+        requiredLevel: 2
+      level2:
+        level: 2
+        dropChance: 5
+        requiredLevel: 3
+      level3:
+        level: 3
+        dropChance: 3
+        requiredLevel: 4
+      level4:
+        level: 4
+        dropChance: 1
+        requiredLevel: 5
+  magical:
+    probability: 2
+    particle: CRIT_MAGIC
+    name: '&d♦ Magical Rune <level>'
+    value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQ0ODBlMzllYTYzZTM0N2QyNjhkZTgzMDkwZDA5OTg0YmYzNDM5NDExODg0ODM0OGJmNGViNTc0OTBjZTlkMiJ9fX0=
+    addLore: |-
+      <name>:
+      &7Create a frozen effect when you
+      &7kill mobs!
+    lore: |-
+      &8Requires level <level>
+      &8Bows
+      &7
+      &7Your Arrows have a magical
+      &7shine!
+      &7
+      &7Apply this rune to weapons or
+      &7fuse two together at the Runic
+      &7Pedestal
+      &7
+      &9&lRARE
+    levels:
+      level1:
+        level: 1
+        dropChance: 2
+        requiredLevel: 3
+      level2:
+        level: 2
+        dropChance: 1
+        requiredLevel: 4
+      level3:
+        level: 3
+        dropChance: 0.5
+        requiredLevel: 5
+      level4:
+        level: 4
+        dropChance: 0.25
+        requiredLevel: 6
+  lava:
+    probability: 10
+    particle: LAVA
+    name: '&4♦ Lava Rune <level>'
+    value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjEzZDkwM2Y2MDEwMzRhYzM0MDBkMjYyNWZlZjEwNGU5YjA5NDA3NDZjNTU0MTkzZjZkOWU4NWE4NGE5NjZhMSJ9fX0=
+    addLore: |-
+      <name>:
+      &7Create a frozen effect when you
+      &7kill mobs!
+    lore: |-
+      &8Requires level <level>
+      &8Bows
+      &7
+      &7Shoot magma arrows!
+      &7
+      &7Apply this rune to weapons or
+      &7fuse two together at the Runic
+      &7Pedestal
+      &7
+      &f&lCOMMON
+    levels:
+      level1:
+        level: 1
+        dropChance: 10
+        requiredLevel: 2
+      level2:
+        level: 2
+        dropChance: 5
+        requiredLevel: 3
+      level3:
+        level: 3
+        dropChance: 3
+        requiredLevel: 4
+      level4:
+        level: 4
+        dropChance: 1
+        requiredLevel: 5
+  gem:
+    probability: 10
+    particle: VILLAGER_HAPPY
+    name: '&2♦ Gem Rune <level>'
+    value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDNhMWFkNGZjYzQyZmI2M2M2ODEzMjhlNDJkNjNjODNjYTE5M2IzMzNhZjJhNDI2NzI4YTI1YThjYzYwMDY5MiJ9fX0=
+    addLore: |-
+      <name>:
+      &7Create a frozen effect when you
+      &7kill mobs!
+    lore: |-
+      &8Requires level <level>
+      &8Bows
+      &7
+      &7Create a gem effect behind your
+      &7arrows!
+      &7
+      &7Apply this rune to weapons or
+      &7fuse two together at the Runic
+      &7Pedestal
+      &7
+      &f&lCOMMON
+    levels:
+      level1:
+        level: 1
+        dropChance: 10
+        requiredLevel: 2
+      level2:
+        level: 2
+        dropChance: 5
+        requiredLevel: 3
+      level3:
+        level: 3
+        dropChance: 3
+        requiredLevel: 4
+      level4:
+        level: 4
+        dropChance: 1
+        requiredLevel: 5
+  golden:
+    probability: 2
+    particle: CLOUD
+    name: '&e♦ Golden Rune <level>'
+    value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVmNDg2MWFhNWIyMmVlMjhhOTBlNzVkYWI0NWQyMjFlZmQxNGMwYjFlY2M4ZWU5OThmYjY3ZTQzYmI4ZjNkZSJ9fX0=
+    addLore: |-
+      <name>:
+      &7Create a frozen effect when you
+      &7kill mobs!
+    lore: |-
+      &8Requires level <level>
+      &8Bows
+      &7
+      &7Flaunt your wealth with golden
+      &7arrows!
+      &7
+      &7Apply this rune to weapons or
+      &7fuse two together at the Runic
+      &7Pedestal
+      &7
+      &5&lEPIC
+    levels:
+      level1:
+        level: 1
+        dropChance: 2
+        requiredLevel: 3
+      level2:
+        level: 2
+        dropChance: 1
+        requiredLevel: 4
+      level3:
+        level: 3
+        dropChance: 0.5
+        requiredLevel: 5
+      level4:
+        level: 4
+        dropChance: 0.25
+        requiredLevel: 6
+  blood:
+    probability: 10
+    particle: REDSTONE
+    name: '&c♦ Blood Rune <level>'
+    value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODdhN2E4OTQwNTdkNGExZmYyMmExNjFkNzY2MDBmNzE5ZGE1NzkxNjYzM2Y2ODM4MDhjZjRkMzU4YmI3M2EyMSJ9fX0=
+    addLore: |-
+      <name>:
+      &7Create a frozen effect when you
+      &7kill mobs!
+    lore: |-
+      &8Requires level <level>
+      &8Weapons
+      &7
+      &7Create a blood effect when you
+      &7kill mobs!
+      &7
+      &7Apply this rune to weapons or
+      &7fuse two together at the Runic
+      &7Pedestal
+      &7
+      &f&lCOMMON
+    levels:
+      level1:
+        level: 1
+        dropChance: 10
+        requiredLevel: 2
+      level2:
+        level: 2
+        dropChance: 5
+        requiredLevel: 3
+      level3:
+        level: 3
+        dropChance: 3
+        requiredLevel: 4
+      level4:
+        level: 4
+        dropChance: 1
+        requiredLevel: 5
+  lightning:
+    probability: 1
+    particle: CLOUD
+    name: '&9♦ Lightning Rune <level>'
+    value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjg1YmNmN2Y4MmQzNGRiODlhOTVhZGRmOGU1MzI1M2UyZDk1NTRjNmZkMmYyZTM5ZTI0MzYyZDI0M2EwY2NmNyJ9fX0=
+    addLore: |-
+      <name>:
+      &7Create a frozen effect when you
+      &7kill mobs!
+    lore: |-
+      &8Requires level <level>
+      &8Weapons
+      &7
+      &7Chance to strike lightning on
+      &7the enemies you defeat!
+      &7
+      &7Apply this rune to weapons or
+      &7fuse two together at the Runic
+      &7Pedestal
+      &7
+      &6&lLEGENDARY
+    levels:
+      level1:
+        level: 1
+        dropChance: 1
+        requiredLevel: 5
+      level2:
+        level: 2
+        dropChance: 0.5
+        requiredLevel: 7
+      level3:
+        level: 3
+        dropChance: 0.2
+        requiredLevel: 9
+      level4:
+        level: 4
+        dropChance: 0.1
+        requiredLevel: 11
