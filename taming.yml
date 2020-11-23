@@ -1,0 +1,374 @@
+type: TAMING
+simple: "Taming"
+name: "&aTaming Skill"
+levelName: "&aTaming <level>"
+level: "Taming Level <level>"
+desc:
+  - "&7Level Up pets earn"
+  - "&7Taming XP!"
+levelIcon:
+  - "&eZoologist <level>"
+  - "&a<chance>%&f extra pet exp."
+levelDesc:
+  - "&7Rewards:"
+  - "<rewards>"
+icon:
+  material: MONSTER_EGG
+  data: 0
+  amount: 1
+  mainSlot: 30
+  levelSlot: 0
+specialIcon:
+  material: IRON_BLOCK
+  data: 0
+levels:
+  level1:
+    level: 1
+    slot: 9
+    page: 1
+    levelUp: 50
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:50"
+    lore:
+      - "&7 &eZoologist I"
+      - "&7  &a4%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&625 &7Coins"
+  level2:
+    level: 2
+    slot: 18
+    page: 1
+    levelUp: 125
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:50"
+    lore:
+      - "&7 &eZoologist II"
+      - "&7  &fGain &81<right>&a2%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&650 &7Coins"
+  level3:
+    level: 3
+    slot: 27
+    page: 1
+    levelUp: 250
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:100"
+    lore:
+      - "&7 &eZoologist III"
+      - "&7  &fGain &82<right>&a3%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&6100 &7Coins"
+  level4:
+    level: 4
+    slot: 28
+    page: 1
+    levelUp: 500
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:200"
+    lore:
+      - "&7 &eZoologist IV"
+      - "&7  &fGain &83<right>&a4%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&6200 &7Coins"
+  level5:
+    level: 5
+    slot: 29
+    page: 1
+    levelUp: 1000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:300"
+    lore:
+      - "&7 &eZoologist V"
+      - "&7  &fGain &84<right>&a5%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&6300 &7Coins"
+  level6:
+    level: 6
+    slot: 20
+    page: 1
+    levelUp: 1500
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:400"
+    lore:
+      - "&7 &eZoologist VI"
+      - "&7  &fGain &85<right>&a6%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&6400 &7Coins"
+  level7:
+    level: 7
+    slot: 11
+    page: 1
+    levelUp: 2000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:500"
+    lore:
+      - "&7 &eZoologist VII"
+      - "&7  &fGain &86<right>&a7%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&6500 &7Coins"
+  level8:
+    level: 8
+    slot: 2
+    page: 1
+    levelUp: 2500
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:600"
+    lore:
+      - "&7 &eZoologist VIII"
+      - "&7  &fGain &87<right>&a8%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&6600 &7Coins"
+  level9:
+    level: 9
+    slot: 3
+    page: 1
+    levelUp: 3000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:700"
+    lore:
+      - "&7 &eZoologist IX"
+      - "&7  &fGain &88<right>&a9%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&6700 &7Coins"
+  level10:
+    level: 10
+    slot: 4
+    page: 1
+    levelUp: 3500
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:800"
+    lore:
+      - "&7 &eZoologist X"
+      - "&7  &fGain &89<right>&a10%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&6800 &7Coins"
+  level11:
+    level: 11
+    slot: 13
+    page: 1
+    levelUp: 4500
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:900"
+    lore:
+      - "&7 &eZoologist XI"
+      - "&7  &fGain &810<right>&a11%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&6900 &7Coins"
+  level12:
+    level: 12
+    slot: 22
+    page: 1
+    levelUp: 6000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:1000"
+    lore:
+      - "&7 &eZoologist XII"
+      - "&7  &fGain &811<right>&a12%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&61000 &7Coins"
+  level13:
+    level: 13
+    slot: 31
+    page: 1
+    levelUp: 7500
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:1100"
+    lore:
+      - "&7 &eZoologist XIII"
+      - "&7  &fGain &812<right>&a13%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&61100 &7Coins"
+  level14:
+    level: 14
+    slot: 32
+    page: 1
+    levelUp: 9000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:1"
+      - "COINS:1200"
+    lore:
+      - "&7 &eZoologist XIV"
+      - "&7  &fGain &813<right>&a14%&f extra pet exp"
+      - "&7 &8+&a1 &d<luck> Pet Luck"
+      - "&7 &8+&61200 &7Coins"
+  level15:
+    level: 15
+    slot: 33
+    page: 1
+    levelUp: 11000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:2"
+      - "COINS:1300"
+    lore:
+      - "&7 &eZoologist XV"
+      - "&7  &fGain &814<right>&a15%&f extra pet exp"
+      - "&7 &8+&a2 &d<luck> Pet Luck"
+      - "&7 &8+&61300 &7Coins"
+  level16:
+    level: 16
+    slot: 24
+    page: 1
+    levelUp: 13000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:2"
+      - "COINS:1400"
+    lore:
+      - "&7 &eZoologist XVI"
+      - "&7  &fGain &815<right>&a16%&f extra pet exp"
+      - "&7 &8+&a2 &d<luck> Pet Luck"
+      - "&7 &8+&61400 &7Coins"
+  level17:
+    level: 17
+    slot: 15
+    page: 1
+    levelUp: 15000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:2"
+      - "COINS:1500"
+    lore:
+      - "&7 &eZoologist XVII"
+      - "&7  &fGain &816<right>&a17%&f extra pet exp"
+      - "&7 &8+&a2 &d<luck> Pet Luck"
+      - "&7 &8+&61500 &7Coins"
+  level18:
+    level: 18
+    slot: 6
+    page: 1
+    levelUp: 20000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:2"
+      - "COINS:1600"
+    lore:
+      - "&7 &eZoologist XVIII"
+      - "&7  &fGain &817<right>&a18%&f extra pet exp"
+      - "&7 &8+&a2 &d<luck> Pet Luck"
+      - "&7 &8+&61600 &7Coins"
+  level19:
+    level: 19
+    slot: 7
+    page: 1
+    levelUp: 25000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:2"
+      - "COINS:1800"
+    lore:
+      - "&7 &eZoologist XIX"
+      - "&7  &fGain &818<right>&a19%&f extra pet exp"
+      - "&7 &8+&a2 &d<luck> Pet Luck"
+      - "&7 &8+&61800 &7Coins"
+  level20:
+    level: 20
+    slot: 8
+    page: 1
+    levelUp: 30000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:2"
+      - "COINS:2000"
+    lore:
+      - "&7 &eZoologist XX"
+      - "&7  &fGain &819<right>&a20%&f extra pet exp"
+      - "&7 &8+&a2 &d<luck> Pet Luck"
+      - "&7 &8+&62000 &7Coins"
+  level21:
+    level: 21
+    slot: 17
+    page: 1
+    levelUp: 33000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:2"
+      - "COINS:2200"
+    lore:
+      - "&7 &eZoologist XXI"
+      - "&7  &fGain &820<right>&a21%&f extra pet exp"
+      - "&7 &8+&a2 &d<luck> Pet Luck"
+      - "&7 &8+&62200 &7Coins"
+  level22:
+    level: 22
+    slot: 26
+    page: 1
+    levelUp: 40000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:2"
+      - "COINS:2400"
+    lore:
+      - "&7 &eZoologist XXII"
+      - "&7  &fGain &821<right>&a22%&f extra pet exp"
+      - "&7 &8+&a2 &d<luck> Pet Luck"
+      - "&7 &8+&62400 &7Coins"
+  level23:
+    level: 23
+    slot: 35
+    page: 1
+    levelUp: 42000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:2"
+      - "COINS:2600"
+    lore:
+      - "&7 &eZoologist XXIII"
+      - "&7  &fGain &822<right>&a23%&f extra pet exp"
+      - "&7 &8+&a2 &d<luck> Pet Luck"
+      - "&7 &8+&62600 &7Coins"
+  level24:
+    level: 24
+    slot: 44
+    page: 1
+    levelUp: 45000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:2"
+      - "COINS:2800"
+    lore:
+      - "&7 &eZoologist XXIV"
+      - "&7  &fGain &823<right>&a24%&f extra pet exp"
+      - "&7 &8+&a2 &d<luck> Pet Luck"
+      - "&7 &8+&62800 &7Coins"
+  level25:
+    level: 25
+    slot: 53
+    page: 1
+    levelUp: 50000
+    rewards:
+      - "PETXP:1"
+      - "PETLUCK:2"
+      - "COINS:3000"
+    lore:
+      - "&7 &eZoologist XXV"
+      - "&7  &fGain &824<right>&a25%&f extra pet exp"
+      - "&7 &8+&a2 &d<luck> Pet Luck"
+      - "&7 &8+&63000 &7Coins"

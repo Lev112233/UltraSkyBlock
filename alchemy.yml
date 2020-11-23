@@ -1,0 +1,399 @@
+type: ALCHEMY
+simple: "Alchemy"
+name: "&aAlchemy Skill"
+levelName: "&aAlchemy <level>"
+level: "Alchemy Level <level>"
+desc:
+  - "&7Brew potions to earn Alchemy XP!"
+levelIcon:
+  - "&eBrewer <level>"
+  - "&a<chance>%&f potions that you brew have a"
+  - "&fmore duration."
+levelDesc:
+  - "&7Rewards:"
+  - "<rewards>"
+icon:
+  material: BREWING_STAND_ITEM
+  data: 0
+  amount: 1
+  mainSlot: 25
+  levelSlot: 0
+specialIcon:
+  material: HAY_BLOCK
+  data: 0
+levels:
+  level1:
+    level: 1
+    slot: 9
+    page: 1
+    levelUp: 50
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:25"
+    lore:
+      - "&7 &eBrewer I"
+      - "&7  &a1%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&625 &7Coins"
+  level2:
+    level: 2
+    slot: 18
+    page: 1
+    levelUp: 125
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:50"
+    lore:
+      - "&7 &eBrewer II"
+      - "&7  &81<right>&a2%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&650 &7Coins"
+  level3:
+    level: 3
+    slot: 27
+    page: 1
+    levelUp: 250
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:100"
+    lore:
+      - "&7 &eBrewer III"
+      - "&7  &82<right>&a3%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&6100 &7Coins"
+  level4:
+    level: 4
+    slot: 28
+    page: 1
+    levelUp: 500
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:200"
+    lore:
+      - "&7 &eBrewer IV"
+      - "&7  &83<right>&a4%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&6200 &7Coins"
+  level5:
+    level: 5
+    slot: 29
+    page: 1
+    levelUp: 1000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:300"
+    lore:
+      - "&7 &eBrewer V"
+      - "&7  &84<right>&a5%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&6300 &7Coins"
+  level6:
+    level: 6
+    slot: 20
+    page: 1
+    levelUp: 1500
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:400"
+    lore:
+      - "&7 &eBrewer VI"
+      - "&7  &85<right>&a6%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&6400 &7Coins"
+  level7:
+    level: 7
+    slot: 11
+    page: 1
+    levelUp: 2000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:500"
+    lore:
+      - "&7 &eBrewer VII"
+      - "&7  &86<right>&a7%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&6500 &7Coins"
+  level8:
+    level: 8
+    slot: 2
+    page: 1
+    levelUp: 2500
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:600"
+    lore:
+      - "&7 &eBrewer VIII"
+      - "&7  &87<right>&a8%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&6600 &7Coins"
+  level9:
+    level: 9
+    slot: 3
+    page: 1
+    levelUp: 3000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:700"
+    lore:
+      - "&7 &eBrewer IX"
+      - "&7  &88<right>&a9%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&6700 &7Coins"
+  level10:
+    level: 10
+    slot: 4
+    page: 1
+    levelUp: 3500
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:800"
+    lore:
+      - "&7 &eBrewer X"
+      - "&7  &89<right>&a10%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&6800 &7Coins"
+  level11:
+    level: 11
+    slot: 13
+    page: 1
+    levelUp: 4500
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:900"
+    lore:
+      - "&7 &eBrewer XI"
+      - "&7  &810<right>&a11%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&6900 &7Coins"
+  level12:
+    level: 12
+    slot: 22
+    page: 1
+    levelUp: 6000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:1000"
+    lore:
+      - "&7 &eBrewer XII"
+      - "&7  &811<right>&a12%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&61000 &7Coins"
+  level13:
+    level: 13
+    slot: 31
+    page: 1
+    levelUp: 7500
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:1100"
+    lore:
+      - "&7 &eBrewer XIII"
+      - "&7  &812<right>&a13%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&61100 &7Coins"
+  level14:
+    level: 14
+    slot: 32
+    page: 1
+    levelUp: 9000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:1"
+      - "COINS:1200"
+    lore:
+      - "&7 &eBrewer XIV"
+      - "&7  &813<right>&a14%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a1 &b<intelligence> Intelligence"
+      - "&7 &8+&61200 &7Coins"
+  level15:
+    level: 15
+    slot: 33
+    page: 1
+    levelUp: 11000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:2"
+      - "COINS:1300"
+    lore:
+      - "&7 &eBrewer XV"
+      - "&7  &814<right>&a15%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a2 &b<intelligence> Intelligence"
+      - "&7 &8+&61300 &7Coins"
+  level16:
+    level: 16
+    slot: 24
+    page: 1
+    levelUp: 13000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:2"
+      - "COINS:1400"
+    lore:
+      - "&7 &eBrewer XVI"
+      - "&7  &815<right>&a16%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a2 &b<intelligence> Intelligence"
+      - "&7 &8+&61400 &7Coins"
+  level17:
+    level: 17
+    slot: 15
+    page: 1
+    levelUp: 15000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:2"
+      - "COINS:1500"
+    lore:
+      - "&7 &eBrewer XVII"
+      - "&7  &816<right>&a17%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a2 &b<intelligence> Intelligence"
+      - "&7 &8+&61500 &7Coins"
+  level18:
+    level: 18
+    slot: 6
+    page: 1
+    levelUp: 20000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:2"
+      - "COINS:1600"
+    lore:
+      - "&7 &eBrewer XVIII"
+      - "&7  &817<right>&a18%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a2 &b<intelligence> Intelligence"
+      - "&7 &8+&61600 &7Coins"
+  level19:
+    level: 19
+    slot: 7
+    page: 1
+    levelUp: 25000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:2"
+      - "COINS:1800"
+    lore:
+      - "&7 &eBrewer XIX"
+      - "&7  &818<right>&a19&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a2 &b<intelligence> Intelligence"
+      - "&7 &8+&61800 &7Coins"
+  level20:
+    level: 20
+    slot: 8
+    page: 1
+    levelUp: 30000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:2"
+      - "COINS:2000"
+    lore:
+      - "&7 &eBrewer XX"
+      - "&7  &819<right>&a20%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a2 &b<intelligence> Intelligence"
+      - "&7 &8+&62000 &7Coins"
+  level21:
+    level: 21
+    slot: 17
+    page: 1
+    levelUp: 33000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:2"
+      - "COINS:2200"
+    lore:
+      - "&7 &eBrewer XXI"
+      - "&7  &820<right>&a21%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a2 &b<intelligence> Intelligence"
+      - "&7 &8+&62200 &7Coins"
+  level22:
+    level: 22
+    slot: 26
+    page: 1
+    levelUp: 40000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:2"
+      - "COINS:2400"
+    lore:
+      - "&7 &eBrewer XXII"
+      - "&7  &821<right>&a22%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a2 &b<intelligence> Intelligence"
+      - "&7 &8+&62400 &7Coins"
+  level23:
+    level: 23
+    slot: 35
+    page: 1
+    levelUp: 42000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:2"
+      - "COINS:2600"
+    lore:
+      - "&7 &eBrewer XXIII"
+      - "&7  &822<right>&a23%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a2 &b<intelligence> Intelligence"
+      - "&7 &8+&62600 &7Coins"
+  level24:
+    level: 24
+    slot: 44
+    page: 1
+    levelUp: 45000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:2"
+      - "COINS:2800"
+    lore:
+      - "&7 &eBrewer XXIV"
+      - "&7  &823<right>&a24%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a2 &b<intelligence> Intelligence"
+      - "&7 &8+&62800 &7Coins"
+  level25:
+    level: 25
+    slot: 53
+    page: 1
+    levelUp: 50000
+    rewards:
+      - "ADDDURATION:4"
+      - "ADDINTELLIGENCE:2"
+      - "COINS:3000"
+    lore:
+      - "&7 &eBrewer XXV"
+      - "&7  &824<right>&a25%&f more duration when you"
+      - "&7  &fbrew a potion."
+      - "&7 &8+&a2 &b<intelligence> Intelligence"
+      - "&7 &8+&63000 &7Coins"

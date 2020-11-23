@@ -1,0 +1,248 @@
+type: RUNECRAFTING
+simple: "Runecrafting"
+name: "&aRunecrafting Skill"
+levelName: "&aRunecrafting <level>"
+level: "Runecrafting Level <level>"
+desc:
+  - "&7Slay bosses, runnic mobs and fuse"
+  - "&7runes to earn Runecrafting XP!"
+levelIcon:
+  - "&a  &7Access to Level &5<chance> &7Runes"
+levelDesc:
+  - "&7Rewards:"
+  - "<rewards>"
+icon:
+  material: MAGMA_CREAM
+  data: 0
+  amount: 1
+  mainSlot: 32
+  levelSlot: 0
+specialIcon:
+  material: IRON_BLOCK
+  data: 0
+levels:
+  level1:
+    level: 1
+    slot: 9
+    page: 1
+    levelUp: 50
+    rewards:
+      - "RUNELEVEL:1"
+    lore:
+      - "&7  &7Access to Level &51 &7Runes"
+  level2:
+    level: 2
+    slot: 18
+    page: 1
+    levelUp: 125
+    rewards:
+      - "RUNELEVEL:2"
+    lore:
+      - "&7  &7Access to Level &52 &7Runes"
+  level3:
+    level: 3
+    slot: 27
+    page: 1
+    levelUp: 250
+    rewards:
+      - "RUNELEVEL:3"
+    lore:
+      - "&7  &7Access to Level &53 &7Runes"
+  level4:
+    level: 4
+    slot: 28
+    page: 1
+    levelUp: 500
+    rewards:
+      - "RUNELEVEL:4"
+    lore:
+      - "&7  &7Access to Level &54 &7Runes"
+  level5:
+    level: 5
+    slot: 29
+    page: 1
+    levelUp: 1000
+    rewards:
+      - "RUNELEVEL:5"
+    lore:
+      - "&7  &7Access to Level &55 &7Runes"
+  level6:
+    level: 6
+    slot: 20
+    page: 1
+    levelUp: 1500
+    rewards:
+      - "RUNELEVEL:6"
+    lore:
+      - "&7  &7Access to Level &56 &7Runes"
+  level7:
+    level: 7
+    slot: 11
+    page: 1
+    levelUp: 2000
+    rewards:
+      - "RUNELEVEL:7"
+    lore:
+      - "&7  &7Access to Level &57 &7Runes"
+  level8:
+    level: 8
+    slot: 2
+    page: 1
+    levelUp: 2500
+    rewards:
+      - "RUNELEVEL:8"
+    lore:
+      - "&7  &7Access to Level &58 &7Runes"
+  level9:
+    level: 9
+    slot: 3
+    page: 1
+    levelUp: 3000
+    rewards:
+      - "RUNELEVEL:9"
+    lore:
+      - "&7  &7Access to Level &59 &7Runes"
+  level10:
+    level: 10
+    slot: 4
+    page: 1
+    levelUp: 3500
+    rewards:
+      - "RUNELEVEL:10"
+    lore:
+      - "&7  &7Access to Level &510 &7Runes"
+  level11:
+    level: 11
+    slot: 13
+    page: 1
+    levelUp: 4500
+    rewards:
+      - "RUNELEVEL:11"
+    lore:
+      - "&7  &7Access to Level &511 &7Runes"
+  level12:
+    level: 12
+    slot: 22
+    page: 1
+    levelUp: 6000
+    rewards:
+      - "RUNELEVEL:12"
+    lore:
+      - "&7  &7Access to Level &512 &7Runes"
+  level13:
+    level: 13
+    slot: 31
+    page: 1
+    levelUp: 7500
+    rewards:
+      - "RUNELEVEL:13"
+    lore:
+      - "&7  &7Access to Level &513 &7Runes"
+  level14:
+    level: 14
+    slot: 32
+    page: 1
+    levelUp: 9000
+    rewards:
+      - "RUNELEVEL:14"
+    lore:
+      - "&7  &7Access to Level &514 &7Runes"
+  level15:
+    level: 15
+    slot: 33
+    page: 1
+    levelUp: 11000
+    rewards:
+      - "RUNELEVEL:15"
+    lore:
+      - "&7  &7Access to Level &515 &7Runes"
+  level16:
+    level: 16
+    slot: 24
+    page: 1
+    levelUp: 13000
+    rewards:
+      - "RUNELEVEL:16"
+    lore:
+      - "&7  &7Access to Level &516 &7Runes"
+  level17:
+    level: 17
+    slot: 15
+    page: 1
+    levelUp: 15000
+    rewards:
+      - "RUNELEVEL:17"
+    lore:
+      - "&7  &7Access to Level &517 &7Runes"
+  level18:
+    level: 18
+    slot: 6
+    page: 1
+    levelUp: 20000
+    rewards:
+      - "RUNELEVEL:18"
+    lore:
+      - "&7  &7Access to Level &518 &7Runes"
+  level19:
+    level: 19
+    slot: 7
+    page: 1
+    levelUp: 25000
+    rewards:
+      - "RUNELEVEL:19"
+    lore:
+      - "&7  &7Access to Level &519 &7Runes"
+  level20:
+    level: 20
+    slot: 8
+    page: 1
+    levelUp: 30000
+    rewards:
+      - "RUNELEVEL:20"
+    lore:
+      - "&7  &7Access to Level &520 &7Runes"
+  level21:
+    level: 21
+    slot: 17
+    page: 1
+    levelUp: 33000
+    rewards:
+      - "RUNELEVEL:21"
+    lore:
+      - "&7  &7Access to Level &521 &7Runes"
+  level22:
+    level: 22
+    slot: 26
+    page: 1
+    levelUp: 40000
+    rewards:
+      - "RUNELEVEL:22"
+    lore:
+      - "&7  &7Access to Level &522 &7Runes"
+  level23:
+    level: 23
+    slot: 35
+    page: 1
+    levelUp: 42000
+    rewards:
+      - "RUNELEVEL:23"
+    lore:
+      - "&7  &7Access to Level &523 &7Runes"
+  level24:
+    level: 24
+    slot: 44
+    page: 1
+    levelUp: 45000
+    rewards:
+      - "RUNELEVEL:24"
+    lore:
+      - "&7  &7Access to Level &524 &7Runes"
+  level25:
+    level: 25
+    slot: 53
+    page: 1
+    levelUp: 50000
+    rewards:
+      - "RUNELEVEL:25"
+    lore:
+      - "&7  &7Access to Level &525 &7Runes"

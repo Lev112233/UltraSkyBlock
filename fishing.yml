@@ -1,0 +1,425 @@
+type: FISHING
+simple: "Fishing"
+name: "&aFishing Skill"
+levelName: "&aFishing <level>"
+level: "Fishing Level <level>"
+desc:
+  - "&7Visit your local pond to fish"
+  - "&7and earn Fishing XP!"
+levelIcon:
+  - "&eTeasure Hunter <level>"
+  - "&a<chance>%&f increases the chance to find"
+  - "&flogs."
+levelDesc:
+  - "&7Rewards:"
+  - "<rewards>"
+icon:
+  material: FISHING_ROD
+  data: 0
+  amount: 1
+  mainSlot: 23
+  levelSlot: 0
+specialIcon:
+  material: HAY_BLOCK
+  data: 0
+levels:
+  level1:
+    level: 1
+    slot: 9
+    page: 1
+    levelUp: 50
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:25"
+    lore:
+      - "&7 &eTeasure Hunter I"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &a0.2%."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&625 &7Coins"
+  level2:
+    level: 2
+    slot: 18
+    page: 1
+    levelUp: 125
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:50"
+    lore:
+      - "&7 &eTeasure Hunter II"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &80.2<right>&a0.4%&f."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&650 &7Coins"
+  level3:
+    level: 3
+    slot: 27
+    page: 1
+    levelUp: 250
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:100"
+    lore:
+      - "&7 &eTeasure Hunter III"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &80.4<right>&a0.6%&f."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&6100 &7Coins"
+  level4:
+    level: 4
+    slot: 28
+    page: 1
+    levelUp: 500
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:200"
+    lore:
+      - "&7 &eTeasure Hunter IV"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &80.6<right>&a0.8%&f."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&6200 &7Coins"
+  level5:
+    level: 5
+    slot: 29
+    page: 1
+    levelUp: 1000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:300"
+    lore:
+      - "&7 &eTeasure Hunter V"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &80.8<right>&a1%&f."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&6300 &7Coins"
+  level6:
+    level: 6
+    slot: 20
+    page: 1
+    levelUp: 1500
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:400"
+    lore:
+      - "&7 &eTeasure Hunter VI"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &81<right>&a1.2%&f."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&6400 &7Coins"
+  level7:
+    level: 7
+    slot: 11
+    page: 1
+    levelUp: 2000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:500"
+    lore:
+      - "&7 &eTeasure Hunter VII"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &81.2<right>&a1.4%&f."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&6500 &7Coins"
+  level8:
+    level: 8
+    slot: 2
+    page: 1
+    levelUp: 2500
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:600"
+    lore:
+      - "&7 &eTeasure Hunter VIII"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &81.4<right>&a1.6%&f."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&6600 &7Coins"
+  level9:
+    level: 9
+    slot: 3
+    page: 1
+    levelUp: 3000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:700"
+    lore:
+      - "&7 &eTeasure Hunter IX"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &81.6<right>&a1.8%&f."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&6700 &7Coins"
+  level10:
+    level: 10
+    slot: 4
+    page: 1
+    levelUp: 3500
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:800"
+    lore:
+      - "&7 &eTeasure Hunter X"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &81.8<right>&a2%&f."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&6800 &7Coins"
+  level11:
+    level: 11
+    slot: 13
+    page: 1
+    levelUp: 4500
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:900"
+    lore:
+      - "&7 &eTeasure Hunter XI"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &82<right>&a2.2%&f."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&6900 &7Coins"
+  level12:
+    level: 12
+    slot: 22
+    page: 1
+    levelUp: 6000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:1000"
+    lore:
+      - "&7 &eTeasure Hunter XII"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &82.2<right>&a2.4%&f."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&61000 &7Coins"
+  level13:
+    level: 13
+    slot: 31
+    page: 1
+    levelUp: 7500
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:1100"
+    lore:
+      - "&7 &eTeasure Hunter XIII"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &82.4<right>&a2.6%&f."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&61100 &7Coins"
+  level14:
+    level: 14
+    slot: 32
+    page: 1
+    levelUp: 9000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:2"
+      - "COINS:1200"
+    lore:
+      - "&7 &eTeasure Hunter XIV"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &82.6<right>&a2.8%&f."
+      - "&7 &8+&a2 HP &c<heart>&a Health"
+      - "&7 &8+&61200 &7Coins"
+  level15:
+    level: 15
+    slot: 33
+    page: 1
+    levelUp: 11000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:3"
+      - "COINS:1300"
+    lore:
+      - "&7 &eTeasure Hunter XV"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &82.8<right>&a3%&f."
+      - "&7 &8+&a3 HP &c<heart>&a Health"
+      - "&7 &8+&61300 &7Coins"
+  level16:
+    level: 16
+    slot: 24
+    page: 1
+    levelUp: 13000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:3"
+      - "COINS:1400"
+    lore:
+      - "&7 &eTeasure Hunter XVI"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &83<right>&a3.2%&f."
+      - "&7 &8+&a3 HP &c<heart>&a Health"
+      - "&7 &8+&61400 &7Coins"
+  level17:
+    level: 17
+    slot: 15
+    page: 1
+    levelUp: 15000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:3"
+      - "COINS:1500"
+    lore:
+      - "&7 &eTeasure Hunter XVII"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &83.2<right>&a3.4%&f."
+      - "&7 &8+&a3 HP &c<heart>&a Health"
+      - "&7 &8+&61500 &7Coins"
+  level18:
+    level: 18
+    slot: 6
+    page: 1
+    levelUp: 20000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:3"
+      - "COINS:1600"
+    lore:
+      - "&7 &eTeasure Hunter XVIII"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &83.4<right>&a3.6%&f."
+      - "&7 &8+&a3 HP &c<heart>&a Health"
+      - "&7 &8+&61600 &7Coins"
+  level19:
+    level: 19
+    slot: 7
+    page: 1
+    levelUp: 25000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:3"
+      - "COINS:1800"
+    lore:
+      - "&7 &eTeasure Hunter XIX"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &83.6<right>&a3.8%&f."
+      - "&7 &8+&a3 HP &c<heart>&a Health"
+      - "&7 &8+&61800 &7Coins"
+  level20:
+    level: 20
+    slot: 8
+    page: 1
+    levelUp: 30000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:4"
+      - "COINS:2000"
+    lore:
+      - "&7 &eTeasure Hunter XX"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &83.8<right>&a4%&f."
+      - "&7 &8+&a4 HP &c<heart>&a Health"
+      - "&7 &8+&62000 &7Coins"
+  level21:
+    level: 21
+    slot: 17
+    page: 1
+    levelUp: 33000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:4"
+      - "COINS:2200"
+    lore:
+      - "&7 &eTeasure Hunter XXI"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &84<right>&a4.2%&f."
+      - "&7 &8+&a4 HP &c<heart>&a Health"
+      - "&7 &8+&62200 &7Coins"
+  level22:
+    level: 22
+    slot: 26
+    page: 1
+    levelUp: 40000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:4"
+      - "COINS:2400"
+    lore:
+      - "&7 &eTeasure Hunter XXII"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &84.2<right>&a4.4%&f."
+      - "&7 &8+&a4 HP &c<heart>&a Health"
+      - "&7 &8+&62400 &7Coins"
+  level23:
+    level: 23
+    slot: 35
+    page: 1
+    levelUp: 42000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:4"
+      - "COINS:2600"
+    lore:
+      - "&7 &eTeasure Hunter XXIII"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &84.4<right>&a4.6%&f."
+      - "&7 &8+&a4 HP &c<heart>&a Health"
+      - "&7 &8+&62600 &7Coins"
+  level24:
+    level: 24
+    slot: 44
+    page: 1
+    levelUp: 45000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:4"
+      - "COINS:2800"
+    lore:
+      - "&7 &eTeasure Hunter XXIV"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &84.6<right>&a4.8%&f."
+      - "&7 &8+&a4 HP &c<heart>&a Health"
+      - "&7 &8+&62800 &7Coins"
+  level25:
+    level: 25
+    slot: 53
+    page: 1
+    levelUp: 50000
+    rewards:
+      - "ADDFISHING:0.2"
+      - "ADDHEALTH:4"
+      - "COINS:3000"
+    lore:
+      - "&7 &eTeasure Hunter XXV"
+      - "&7  &fIncreases the chance to find"
+      - "&7  &ftreasure when fishing by"
+      - "&7  &84.8<right>&a5%&f."
+      - "&7 &8+&a4 HP &c<heart>&a Health"
+      - "&7 &8+&63000 &7Coins"
