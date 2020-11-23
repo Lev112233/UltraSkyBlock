@@ -1,0 +1,850 @@
+percent: "&e<percent>%"
+unlocked: "&aUNLOCKED"
+amount: "x<amount>"
+maxed: "&cMaxed"
+tradingOptions: "§eRight-Click for more trading options!"
+stats:
+  - "&e&lYour stats"
+  - "&bAttributes:"
+  - "&aHealth: &6<health>"
+  - "&aShield: &6<shield>"
+  - "&aMana: &6<mana>"
+  - "&aCrit Chance: &6<critChance>"
+  - "&aMore Damage: &6<moreDamage>"
+  - "&aForce: &6<force>"
+  - "&aSpeed: &6<speed>"
+  - "&aIntelligence: &6<intelligence>"
+  - "&7"
+  - "&bInfo:"
+  - "&aMore XP: &6<morexp>"
+  - "&aMore Duration: &6<moreduration>"
+  - "&aDouble Logs: &6<doublelogs>"
+  - "&aDouble Ores: &6<doubleores>"
+  - "&aDouble Crops: &6<doublecrops>"
+  - "&aSea Creature: &6<seacreature>"
+messages:
+  noUnlockedCraft: "&cYou don't have unlocked this crafting."
+  dragonBar: "<name> &7- &a<health>&7/&c<max>"
+  alreadySpawned: "&cThere's already a dragon."
+  spawned: "&d&lThe <dragon>&d&l has spawned!"
+  alreadyEye: "&cThis place already has an ender eye."
+  putEye: "&dYou placed a Summoning Eye! &7(&e<now>&7/&a<max>&7)"
+  othersEye: "&7<player>&d placed a Summoning Eye! &7(&e<now>&7/&a<max>&7)"
+  spawning: "&aThe eye ritual has been completed the dragon will appear."
+  noOnline: "&cThis player is not online."
+  needEqual: "&cYou can only merge runes of the same type."
+  noType: "&cThis is not a mergeable item type."
+  noLevel: "&cYou don't have enough level to put these materials together."
+  noFusion: "&cYou can't merge these two items because the item already has a rune."
+  noRune: "&cPlease enter a rune for sacrifice."
+  maxLevel: "&cThis pet is at its best, you're losing experience."
+  noPet: "&cThere's no pet with that key."
+  noRuneKey: "&cThere is no rune with this key."
+  reload: "&aThe plugin is reloaded correctly."
+  noHas: "&cYou do not contain this item in the inventory."
+  traded: "&aYou have successfully traded."
+  findCollection: "&cYou need to find this item to unlock this collection."
+  alreadySoul: "&d&lSOULS! &cYou've already captured this Fairy Soul."
+  foundSoul: |-
+    &d&lSOULS! &fYou found a &dFairy Soul&f!
+    &d&lSOUL >> &fYou have gained +<reward>
+titles:
+  dragon:
+    title: "&5Dragon Spawning"
+    subtitle: "&6Spawning <time>"
+  spawned:
+    title: "&c<dragon>"
+    subtitle: "&7Spawned"
+setup:
+  noCraftName: "&cThere is no crafting with this name."
+  setDragonSpawn: "&aThe spawn site of the dragon has been established."
+  alreadyAltar: "&cThis is already a Altar."
+  savedAltar: "&aAll Altar Locations have been saved."
+  noSetupAltar: "&cYou're not setting up Altar."
+  noAltar: "&cThis isn't a Altar."
+  addAltar: "&aAdded a Altar on site &e<loc>&a."
+  removeAltar: "&cRemoved a Altar on site &e<loc>&c."
+  alreadySetupAltar: "&cYou're already in Altar setup."
+  setupAltar: |-
+    &aRight-click &eon the heads that will be considered Altar.
+    &cLeft-click &eto remove Altar.
+  setRunetable: "&cAdded a rune table."
+  noResult: "&cYou have not established the result of this crafting."
+  alreadySetupFairy: "&cYou're already in Fairy Soul setup."
+  noSetupFairy: "&cYou're not setting up Fairy Souls."
+  savedFairy: "&aAll Fairy Souls heads have been saved."
+  addFairy: "&aAdded a Fairy on site &e<loc>&a."
+  removeFairy: "&cRemoved a Fairy on site &e<loc>&c."
+  setupFairy: |-
+    &aRight-click &eon the heads that will be considered Fairy Souls.
+    &cLeft-click &eto remove Fairy Soul.
+  alreadyFairy: "&cThis is already a Fairy Soul."
+  noFairy: "&cThis isn't a Fairy Soul."
+  savedMine: "&aA total of &e<mines>&a mines have been saved."
+  setPos1: "&aSet point number 1."
+  setPos2: "&aSet point number 2."
+  noTwoPoint: "&cYou have not set both selection points."
+  noInSetup: "&cYou don't have any selections to grab."
+  giveWand: "&aYou've been given a wand for the mine &e<mine>&a."
+  giveMine: "&aYou have been given an item representing the mine."
+  noMine: "&cThere is no mine with this key."
+  newMine: "&aA new &e<mine>&a type mine has been established in &e<loc>&a."
+  noHand: "&cYou need have item in hand."
+  needBlock: "&cYou need the item to be a block, otherwise you can't break it."
+  setType: "&aYou have selected the type of collection &e<type>&a."
+  noNumber: "&cPlease write a number."
+  noItem: "&cYou must put an item to save."
+  writeCommands: "&aType the command you'll add."
+  setCommands: "&aThis command &e<command> &ahas been added to the rewards."
+  setName: "&aThe name of this now is &e<name>&a."
+  writeAttribute: "&aWrite in the chat the amount of this attribute."
+  setAttribute: "&aThe amount of this attribute has been set to &e<amount>&a."
+  writeChange: "&aWrite in the chat the value."
+  setChange: "&aThe value of this has been set to &e<change>&a."
+  saveItem: "&aThis item has been saved as a representation of this type."
+  saveCraft: "&aThis crafting has been saved."
+  saveCollectionLevel: "&aSave the collection level."
+  saveCollection: "&aThe collection has been saved."
+  saveTrade: "&aThis trade has been saved."
+  saveMine: "&aThe mine has been saved."
+  save: "&aThis armor has been saved."
+  noMoreRemove: "&cThere are no more commands to remove."
+  removedLast: "&cYou removed the last command."
+  createNewLevel: "&aYou've created the level &e<level>&a."
+  editingLevel: "&aYou're editing the level &e<level>&a."
+  notSet:
+    noCraft: "&cYou haven't established any crafting."
+    noArmor: "&cYou haven't set an item that represents the armor."
+    noCost: "&cYou don't have a cost item."
+    noGive: "&cYou don't have a give item"
+    noItem: "&cYou have not set the item that represents this collection."
+    noLevels: "&cYou haven't added any levels."
+items:
+  eye:
+    nameItem: "&aEye of Ender"
+    loreItem: |-
+      &7Put this in eye
+      &7of ender.
+  wand:
+    nameItem: "&eMine Wand"
+    loreItem: |-
+      &aLeft click to point 1.
+      &cRight click to point 2.
+collections:
+  FARMING: "Farming"
+  MINING: "Mining"
+  COMBAT: "Combat"
+  FORAGING: "Foraging"
+  FISHING: "Fishing"
+attributes:
+  INTELLIGENCE: "&7Intelligence: &a<amount>"
+  STRENGTH: "&7Strength: &a<amount>"
+  SPEED: "&7Speed: &a<amount>"
+actionBar:
+  withoutDefense: "&c<health>/<maxHealth><heart>            &b<mana>/<maxMana>❉ Mana"
+  withDefense: "&c<health>/<maxHealth><heart>   &a<defense><shield> Defense   &b<mana>/<maxMana>❉ Mana"
+  progress: "&c<health>/<maxHealth><heart>   &3+<add> <skill> (<skillNow>/<skillMax>)   &b<mana>/<maxMana>❉ Mana"
+collectionUnlocked:
+  - "&6&lCOLLECTION UNLOCKED ➤ &e<collection>"
+collectionLevelUp:
+  - "&e▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+  - "&6&l  COLLECTION LEVEL UP &e<name> &8<nowLevel><right>&e<newLevel>"
+  - "&e&l  REWARD"
+  - "<rewards>"
+  - "&e▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+skillLevelUp:
+  - "&3▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+  - "&b&l SKILL LEVEL UP &3<skill> <level>"
+  - "&a&l REWARDS"
+  - "<rewards>"
+  - "&3▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+progress:
+  - "&7Progress: &e<percent>%"
+  - "<bar> &e<now>&6/&e<max>"
+progressBar:
+  symbol: "-"
+  in: "&2"
+  out: "&f"
+  finish: "<progress>"
+  max: "&cMax"
+pet:
+  levelUp: "&aYour pet has leveled up to &9<level>&a."
+  spawn: "&aClick to spawn!"
+  despawn: "&cClick to despawn!"
+  alreadyPet: "&cYou already has pet spawned."
+  name: "&7[Lvl <level>] &f<player> <rarity><name>"
+  lore:
+    - "&8<type> Pet"
+    - "&7"
+    - "<attributes>"
+    - "&7"
+    - "&6Group"
+    - "<extra>"
+    - "&8Max <max> <name>"
+    - "&7"
+    - "<ability>"
+  progress:
+    - "&7"
+    - "&7Progress to Level <level>: &e<percent>%"
+    - "<bar> &e<now>&6/&e<max>"
+    - "&7"
+    - "<status>"
+menus:
+  preview:
+    title: "Craft Preview"
+    crafting:
+      nameItem: "&aCrafting Table"
+      loreItem: |-
+        &7This is recipe for
+        &7crafting table.
+    close:
+      nameItem: "&cClose"
+      loreItem: |-
+        &7Close this menu.
+  runetable:
+    title: "Runic Pedestal"
+    upgrade:
+      nameItem: "&6Item to Upgrade"
+      loreItem: |-
+        &7The item or rune you want
+        &7to upgrade should be placed
+        &7in the slot on this side.
+    sacrifice:
+      nameItem: "&6Rune to Sacrifice"
+      loreItem: |-
+        &7The rune you're sacrificing
+        &7in order to upgrade the
+        &7item on the left should be
+        &7placed in the slot on this
+        &7side.
+    pedestal:
+      nameItem: "&cRunic Pedestal"
+      loreItem: |-
+        &7Place a target item in the left
+        &7slot and a sacrifice rune in the
+        &7right slot to add the rune's
+        &7effects to the item or add two
+        &7runes the attempt to fuse them!
+    apply:
+      nameItem: "&aApple a Rune or Fuse Two Runes"
+      loreItem: |-
+        &7Add the rune to your
+        &7provided item or provide
+        &7two runes to attempt to
+        &7fuse them.
+    combine:
+      nameItem: "&aCombine Items"
+      loreItem: |-
+        &7Combine the provided rune and
+        &7item.
+        &7
+        &eClick to combine!
+  pets:
+    title: "Your Pets"
+    pet:
+      nameItem: "&7[Lvl <level>] <rarity><name>"
+      loreItem:
+        - "<lore>"
+        - "&7"
+        - "&7Cost"
+        - "<price>"
+        - "&7"
+        - "&eClick to trade!"
+  craft:
+    title: "Craft Item"
+  mines:
+    title: "&aSetup Mines"
+    key:
+      nameItem: "&aMine Identifier"
+      loreItem: |-
+        &7This is mine identifier:
+        &7
+        &bKey: &e<key>
+        &7
+    item:
+      nameItem: "&aMine Material"
+      loreItem: |-
+        &7This is material of mine.
+        &7
+        &bMaterial: &e<material>
+        &7
+    countdown:
+      nameItem: "&aMine Countdown"
+      loreItem: |-
+        &7This is countdown of mine.
+        &7
+        &bCountdown: &e<countdown>
+        &7
+        &eClick to change!
+    save:
+      nameItem: "&aSave Mine"
+      loreItem: |-
+        &7Save this mine.
+        &7
+        &eClick to save!
+  last:
+    nameItem: "&aLast Page"
+    loreItem: |-
+      &7Click to back a last
+      &7page.
+  next:
+    nameItem: "&aNext Page"
+    loreItem: |-
+      &7Click to back a last
+      &7page.
+  back:
+    nameItem: "&aBack"
+    loreItem: |-
+      &7Go to <back>
+  close:
+    nameItem: "&cClose"
+    loreItem: |-
+      &7Click to close
+      &7this menu.
+  collectionsLevels:
+    title: "<type> Collection"
+    icon:
+      nameItem: "&e<name> <level>"
+      loreItem: |-
+        &7View all your <name> Collection
+        &7progress and rewards!
+        &7
+        &7Total Collected: &e<collected>
+    blocked:
+      nameItem: "&c<name> <level>"
+      loreItem: |-
+        &7
+        &7Progress: &e<progress>%
+        <bar> &e<now>&6/&e<max>
+        &7
+        &7Reward:
+        <rewards>
+        &7
+        &eClick to view rewards!
+    now:
+      nameItem: "&e<name> <level>"
+      loreItem: |-
+        &7
+        &7Progress: &e<progress>%
+        <bar> &e<now>&6/&e<max>
+        &7
+        &7Reward:
+        <rewards>
+        &7
+        &eClick to view rewards!
+    unblocked:
+      nameItem: "&a<name> <level>"
+      loreItem: |-
+        &7
+        &7Progress: &a100%
+        <bar> &e<now>&6/&e<max>
+        &7
+        &7Reward:
+        <rewards>
+        &7
+        &eClick to view rewards!
+  collectionsType:
+    title: "Collection <type>"
+    blocked:
+      nameItem: "&c<name>"
+      loreItem: |-
+        &7Find this item to add it to your
+        &7collection and unlock collection
+        &7rewards!
+    unlocked:
+      nameItem: "&e<name> <level>"
+      loreItem: |-
+        &7View all your <name> Collection
+        &7progress and rewards!
+        &7
+        &7Progress to <name> <level>: &e<percent>&6%
+        <bar> &e<now>&6/&e<max>
+        &7
+        &7<name> <level> Rewards:
+        <rewards>
+        &7
+        &eClick to view!
+  collections:
+    title: "Collection"
+    unlocked: "Unlocked"
+    maxed: "Maxed"
+    back: "Collections"
+    collection:
+      nameItem: "&aCollection"
+      loreItem: |-
+        &7View all of the items available
+        &7in SkyBlock. Collect more of an
+        &7item to unlock rewards on your
+        &7war to becoming a master of
+        &7SkyBlock!
+        &7
+        &7Collection Unlocked: &e<percent>&6%
+        <bar> &e<now>&6/&e<max>
+    FARMING:
+      nameItem: "&aFarming Collection"
+      loreItem: |-
+        &7View your Farming Collection!
+        &7
+        &7Collection <status>: &e<percent>&6%
+        <bar> &e<unlocked>&6/&e<max>
+        &7
+        &eClick to see!
+    MINING:
+      nameItem: "&aMining Collection"
+      loreItem: |-
+        &7View your Mining Collection!
+        &7
+        &7Collection <status>: &e<percent>&6%
+        <bar> &e<unlocked>&6/&e<max>
+        &7
+        &eClick to see!
+    COMBAT:
+      nameItem: "&aCombat Collection"
+      loreItem: |-
+        &7View your Combat Collection!
+        &7
+        &7Collection <status>: &e<percent>&6%
+        <bar> &e<unlocked>&6/&e<max>
+        &7
+        &eClick to see!
+    FORAGING:
+      nameItem: "&aForaging Collection"
+      loreItem: |-
+        &7View your Foraging Collection!
+        &7
+        &7Collection <status>: &e<percent>&6%
+        <bar> &e<unlocked>&6/&e<max>
+        &7
+        &eClick to see!
+    FISHING:
+      nameItem: "&aFishing Collection"
+      loreItem: |-
+        &7View your Fishing Collection!
+        &7
+        &7Collection <status>: &e<percent>&6%
+        <bar> &e<unlocked>&6/&e<max>
+        &7
+        &eClick to see!
+  collectionSetupLevels:
+    title: "&aSetup Collection Level"
+    main:
+      nameItem: "&aLevel &e<level>"
+      loreItem: |-
+        &7This level has the following features:
+        &7
+        &bAmount: &e<amount>
+        &bSlot: &e<slot>
+        &bPage: &e<page>
+        &7
+        &eClick to change!
+    name:
+      nameItem: "&aName of Collection"
+      loreItem: |-
+        &7This is the name that would
+        &7represent the collection.
+        &7
+        &bName: &e<name>
+        &7
+        &eClick to change!
+    amount:
+      nameItem: "&aAmount to this Level"
+      loreItem: |-
+        &7When you reach this amount you
+        &7will be considered to reach this level.
+        &7
+        &bAmount: &e<amount>
+        &7
+        &eClick to change!
+    slot:
+      nameItem: "&aSlot Collection Level"
+      loreItem: |-
+        &7This is the slot where this
+        &7level will appear.
+        &7
+        &bSlot: &e<amount>
+        &7
+        &eClick to change!
+    page:
+      nameItem: "&aPage Collection Level"
+      loreItem: |-
+        &7This is the page where this
+        &7level will appear.
+        &7
+        &bPage: &e<amount>
+        &7
+        &eClick to change!
+    commands:
+      nameItem: "&aCommands"
+      loreItem: |-
+        &7These commands will be executed
+        &7upon reaching this level.
+        &7
+        <commands>
+        &7
+        &eClick to add!
+        &cRight click to remove last!
+    save:
+      nameItem: "&aSave"
+      loreItem: |-
+        &7Save this Collection Level.
+        &7
+        &eClick to save!
+  collectionLevels:
+    title: "&aSetup Collection Levels"
+    add:
+      nameItem: "&aAdd Level"
+      loreItem: |-
+        &7Add collection level.
+        &7
+        &eClick to add!
+  collectionType:
+    title: "&aSetup Collection Type"
+    FARMING:
+      nameItem: "&aFarming"
+      loreItem: |-
+        &7You will select the collection
+        &7type to Farming.
+        &7
+        &eClick to select!
+    MINING:
+      nameItem: "&aMining"
+      loreItem: |-
+        &7You will select the collection
+        &7type to Mining.
+        &7
+        &eClick to select!
+    COMBAT:
+      nameItem: "&aCombat"
+      loreItem: |-
+        &7You will select the collection
+        &7type to Combat.
+        &7
+        &eClick to select!
+    FORAGING:
+      nameItem: "&aForaging"
+      loreItem: |-
+        &7You will select the collection
+        &7type to Foraging.
+        &7
+        &eClick to select!
+    FISHING:
+      nameItem: "&aFishing"
+      loreItem: |-
+        &7You will select the collection
+        &7type to Fishing.
+        &7
+        &eClick to select!
+  collectionGive:
+    title: "&aSetup Collection Item"
+    save:
+      nameItem: "&aSave Collection Item"
+      loreItem: |-
+        &7Save this Collection Item.
+        &7
+        &eClick to save!
+  collection:
+    title: "&aSetup Collection"
+    key:
+      nameItem: "&aCollection Key"
+      loreItem: |-
+        &7This is the key with which
+        &7the collection will be recognized
+        &7in different places.
+        &7
+        &bKey: &e<key>
+        &7
+    item:
+      nameItem: "&aCollection Item"
+      loreItem: |-
+        &7This item will be the one that
+        &7when collecting will
+        &7increase the collection.
+        &7
+        &eClick to set!
+    name:
+      nameItem: "&aCollection Name"
+      loreItem: |-
+        &7This is Collecion's Name.
+        &7
+        &bName: &e<name>
+        &7
+        &eClick to change!
+    type:
+      nameItem: "&aCollection Type"
+      loreItem: |-
+        &7This is Collecion's type.
+        &7
+        &bType: &e<type>
+        &7
+        &eClick to change!
+    levels:
+      nameItem: "&aCollection Levels"
+      loreItem: |-
+        &7This is Collecion's levels.
+        &7
+        &eClick to see!
+    save:
+      nameItem: "&aSave Collection"
+      loreItem: |-
+        &7Save this collection.
+        &7
+        &eClick to save!
+  trading:
+    title: "&8Shop Trading Options"
+  trades:
+    title: "&aTrades"
+    blocked:
+      nameItem: "&c???"
+      loreItem: |-
+        &7Progress through your item
+        &7collections and explore the
+        &7world to unlock new trades!
+  tradeGive:
+    title: "&aSetup Trade Give"
+    save:
+      nameItem: "&aSave Trade Give"
+      loreItem: |-
+        &7Save this Trade Give.
+        &7
+        &eClick to save!
+  tradeCost:
+    title: "&aSetup Trade Cost"
+    save:
+      nameItem: "&aSave Trade Cost"
+      loreItem: |-
+        &7Save this Trade Cost.
+        &7
+        &eClick to save!
+  trade:
+    title: "&aSetup Trade"
+    key:
+      nameItem: "&aTrade Key"
+      loreItem: |-
+        &7This is the key with which
+        &7the trade will be recognized
+        &7in different places.
+        &7
+        &bKey: &e<key>
+        &7
+    permission:
+      nameItem: "&aTrade Permission"
+      loreItem: |-
+        &7This is the permission that
+        &7players require to unlock this trade.
+        &7
+        &bPermission: &e<permission>
+        &7
+        &eClick to change!
+    give:
+      nameItem: "&aGive Item"
+      loreItem: |-
+        &7This is the item the player will
+        &7receive for each time they interact.
+        &7
+        &eClick to set!
+    cost:
+      nameItem: "&aCost Item"
+      loreItem: |-
+        &7This is the item that is
+        &7the cost, per action.
+        &7
+        &eClick to set!
+    slot:
+      nameItem: "&aTrade Slot"
+      loreItem: |-
+        &7This is the slot in which
+        &7this trade will appear.
+        &7
+        &bSlot: &e<slot>
+        &7
+        &eClick to change!
+    page:
+      nameItem: "&aTrade Page"
+      loreItem: |-
+        &7This is the page in which
+        &7this trade will appear.
+        &7
+        &bPage: &e<page>
+        &7
+        &eClick to change!
+    save:
+      nameItem: "&aSave Trade"
+      loreItem: |-
+        &7Save this trade.
+        &7
+        &eClick to save!
+  attributes:
+    title: "&aSetup Armor Attributes"
+    defense:
+      nameItem: "&aDefense"
+      loreItem: |-
+        &7This armor will give you the
+        &7amount of armor set.
+        &7
+        &bDefense: &e<amount>
+        &7
+        &eClick to change!
+    force:
+      nameItem: "&4Force"
+      loreItem: |-
+        &7This armor will give you the
+        &7amount of armor set.
+        &7
+        &bForce: &e<amount>
+        &7
+        &eClick to change!
+    health:
+      nameItem: "&cHealth"
+      loreItem: |-
+        &7This armor will give you the
+        &7amount of armor set.
+        &7
+        &bHealth: &e<amount>
+        &7
+        &eClick to change!
+    speed:
+      nameItem: "&fSpeed"
+      loreItem: |-
+        &7This armor will give you the
+        &7amount of armor set.
+        &7
+        &bSpeed: &e<amount>
+        &7
+        &eClick to change!
+    critDamage:
+      nameItem: "&9CritDamage"
+      loreItem: |-
+        &7This armor will give you the
+        &7amount of armor set.
+        &7
+        &bCritDamage: &e<amount>
+        &7
+        &eClick to change!
+    intelligence:
+      nameItem: "&bIntelligence"
+      loreItem: |-
+        &7This armor will give you the
+        &7amount of armor set.
+        &7
+        &bIntelligence: &e<amount>
+        &7
+        &eClick to change!
+    back:
+      nameItem: "&aBack to Main"
+      loreItem: |-
+        &7When you click back to last.
+        &7
+        &eClick to back!
+  setupCraft:
+    title: "&aSetup Craft Menu"
+    save:
+      nameItem: "&aSave Armor Craft"
+      loreItem: |-
+        &7Save this armor craft.
+        &7
+        &eClick to save!
+  setupItem:
+    title: "&aSetup Item Menu"
+    save:
+      nameItem: "&aSave Armor Item"
+      loreItem: |-
+        &7Save this armor item.
+        &7
+        &eClick to save!
+  setup:
+    title: "&aSetup Menu"
+    key:
+      nameItem: "&aArmor Key"
+      loreItem: |-
+        &7This is the key with which
+        &7the armor will be recognized
+        &7in different places.
+        &7
+        &bKey: &e<key>
+        &7
+    item:
+      nameItem: "&aArmor Item"
+      loreItem: |-
+        &7This is the item that represents
+        &7the rebar (sets the lore and all at once),
+        &7
+        &eClick to set!
+    attributes:
+      nameItem: "&aArmor Attributes"
+      loreItem: |-
+        &7These are the attributes
+        &7that the armor will increase
+        &7when you wear it.
+        &7
+        <attributes>
+        &7
+        &eClick to change!
+    craft:
+      nameItem: "&aArmor Craft"
+      loreItem: |-
+        &7This is the crafting of armor.
+        &7
+        &eClick to set!
+    save:
+      nameItem: "&aSave Armor"
+      loreItem: |-
+        &7Save this armor.
+        &7
+        &eClick to save!
+  skillsLevel:
+    title: "<type> Skill"
+  skills:
+    title: "&8Skils Menu"
+    back:
+      name: "Your Skills"
+      nameItem: "&aBack"
+      loreItem: |-
+        &7Go to <back>
+    multiplier:
+      store: "&ehttps://www.insideranh.com/discord"
+      nameItem: "&aXP Multiplier"
+      loreItem: |-
+        &7
+        &7Earn more experience by
+        &7owning a Server rank.
+        &7
+        &a[VIP] &7: &51.1x &7XP
+        &a[VIP&6+] &7: &51.25x &7XP
+        &b[MVP] &7: &51.5x &7XP
+        &b[MVP&c+] &7: &52.0x &7XP
+        &7
+        &7Your Multiplier XP: &5<multiplier>x
+        &7
+        &eClick to visit the store!
+    close:
+      nameItem: "&cClose"
+      loreItem: |-
+        &7Click to close
+        &7this menu.
+    skills:
+      nameItem: "&aYour Skills"
+      loreItem: |-
+        &7View your Skill progression and
+        &7rewards.
+    maxReward:
+      - "&7You reached the level limit."
+      - "&7Off this skill."
+    mainLore:
+      - "<desc>"
+      - "&7"
+      - "&7Progress to Level <level>: &e<percent>%"
+      - "<bar> &e<amount>&6/&e<max>"
+      - "&7"
+      - "&7Level <level> Rewards:"
+      - "<rewards>"
+      - "&7"
+      - "&eClick to view!"
+    levelIcon:
+      - "<desc>"
+      - "&7"
+      - "&7Progress to Level <level>: &e<percent>%"
+      - "<bar> &e<amount>&6/&e<max>"
+      - "&7"
+      - "&8Increase your&a <name>&8 Level to"
+      - "&8unlock Perks, statistics bonuses"
+      - "&8and more!"
